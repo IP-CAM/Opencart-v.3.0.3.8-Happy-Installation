@@ -4,3 +4,4 @@
 
 - Editar css
 - Configurar PagSeguro
+- Configurar Catálogo

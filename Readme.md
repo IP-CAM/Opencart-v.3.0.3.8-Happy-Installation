@@ -2,6 +2,7 @@
 
 ## Objetivos gerais
 
-- Editar css
+- Editar CSS
 - Configurar PagSeguro
 - Configurar Catálogo
+- Padronizar o sistema em todos os PCs
